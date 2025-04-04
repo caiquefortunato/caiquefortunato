@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-<!--
-**caiquefortunato/caiquefortunato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://img.shields.io/static/v1?label=Overview&message=CAÍQUE FORTUNATO&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Hello, I'm Caíque Fortunato, a Full Stack developer currently working at Fundação de Apoio da UFMG (FUNDEP) through BHS. I graduated in Information Systems at UFMG, completed a specialization in Cloud Computing at PUC-MG, and I am currently pursuing a master's degree at DCC/UFMG in the area of Human-Computer Interaction, researching semiotic engineering under the supervision of Ph.D. Raquel O. Prates.
+
+![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
