@@ -1,6 +1,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
+Hello! I'm Caíque Fortunato
+</p>
+
+<p align="left"> 
 I'm a Full Stack developer currently working at BHS. I graduated in Information Systems at UFMG, completed a specialization in Cloud Computing at PUC-MG, and I am currently pursuing a master's degree at DCC/UFMG in the area of Human-Computer Interaction, researching semiotic engineering under the supervision of Ph.D. Raquel O. Prates.
 </p>
 
