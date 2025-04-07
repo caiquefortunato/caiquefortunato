@@ -1,7 +1,5 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=CAÍQUE FORTUNATO&color=d6b3ff&style=for-the-badge&logo=GitHub" alt="Static GitHub">
-
 <p align="left"> 
 I'm a Full Stack developer currently working at BHS. I graduated in Information Systems at UFMG, completed a specialization in Cloud Computing at PUC-MG, and I am currently pursuing a master's degree at DCC/UFMG in the area of Human-Computer Interaction, researching semiotic engineering under the supervision of Ph.D. Raquel O. Prates.
 </p>
